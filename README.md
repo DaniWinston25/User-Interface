@@ -8,6 +8,8 @@ Given this [design file](design-files/desktop.jpg), use HTML and CSS to build th
 
 ## To Get Started
 
+Name: Danial Winston
+
 * Fork / Clone this project into a directory on your machine.
 
 * Open the code with your preferred integrated development environment (IDE).
